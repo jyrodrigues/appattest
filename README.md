@@ -4,7 +4,7 @@ Since iOS 14, Apple offers a [new way](https://developer.apple.com/documentation
 
 ## Installation
 
-Get the module with `go get github.com/bas-d/appattest`.
+Get the module with `go get github.com/jyrodrigues/appattest`.
 
 ## Usage
 

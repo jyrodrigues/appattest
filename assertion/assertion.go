@@ -8,10 +8,10 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/bas-d/appattest/authenticator"
-	"github.com/ugorji/go/codec"
+	"github.com/jyrodrigues/appattest/authenticator"
+	"github.com/jyrodrigues/appattest/utils"
 
-	"github.com/bas-d/appattest/utils"
+	"github.com/ugorji/go/codec"
 )
 
 type ClientData struct {

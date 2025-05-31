@@ -1,4 +1,4 @@
-module github.com/bas-d/appattest
+module github.com/jyrodrigues/appattest
 
 go 1.15
 
